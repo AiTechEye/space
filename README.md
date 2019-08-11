@@ -1,5 +1,5 @@
-# License: CC0
-# Version: 2.2
+# License: CC0  
+# Version: 2.2  
 
 Makes you able to go to the space!  
 

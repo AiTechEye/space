@@ -1,4 +1,4 @@
-# License: CC0  
+# Licenses: code: LGPL-2.1, media: CC0
 Version: 2.2  
 
 Makes you able to go to the space!  

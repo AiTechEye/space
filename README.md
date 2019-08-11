@@ -1,7 +1,8 @@
 # Licenses: code: LGPL-2.1, media: CC0
 Version: 2.2  
 Requires: MT 0.5 or newer  
-Makes you able to go to the space!  
+  
+### Makes you able to go to the space!  
 
 The space, low gravity and astroids appear at +2000 height, outer space +4000, planets/worlds at +4100  
 The moon appear at 0,2500,0 (You can teleport your self to the moon by /teleport 70 2651 70)  

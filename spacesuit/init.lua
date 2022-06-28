@@ -32,7 +32,7 @@ minetest.register_entity("spacesuit:sp1",{
 	spritediv = {x=1, y=1},
 	is_visible = true,
 	makes_footstep_sound = false,
-	automatic_rotate = false,
+	automatic_rotate = 0,
 	timer=0,
 	on_activate=function(self, staticdata)
 		if spacesuit.tmpuser then
